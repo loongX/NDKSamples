@@ -1,0 +1,2 @@
+include ':app', ':gen-libs'
+rootProject.name='NDKLib'
