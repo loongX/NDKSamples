@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android" android:title="Serial port setup">
+	<ListPreference 
+	    android:entries="@array/devices_name" 
+	    android:entryValues="@array/devices_value" 
+	    android:key="DEVICE" 
+	    android:persistent="true" 
+	    android:title="Devices" 
+	    android:defaultValue="@string/devices_def">
+	</ListPreference>
+
+	<ListPreference 
+	    android:entries="@array/baudrates_name" 
+	    android:entryValues="@array/baudrates_value" 
+	    android:key="BAUDRATE" 
+	    android:persistent="true" 
+	    android:title="Baud rate" 
+	    android:defaultValue="@string/baud_rate_def">
+	</ListPreference>
+
+	<ListPreference 
+	    android:entries="@array/Parity_names" 
+	    android:entryValues="@array/Parity_value" 
+	    android:key="PARITY" 
+	    android:persistent="true" 
+	    android:title="Parity check"
+	    android:defaultValue="@string/parity_check_def">
+	</ListPreference>
+	
+	<ListPreference 
+	    android:entries="@array/Stop_names" 
+	    android:entryValues="@array/Stop_value" 
+	    android:key="STOP" 
+	    android:persistent="true" 
+	    android:title="Stop bits"
+	    android:defaultValue="@string/stop_bits_def">
+	</ListPreference>
+	
+	<ListPreference 
+	    android:entries="@array/Data_names" 
+	    android:entryValues="@array/Data_value" 
+	    android:key="DATA" 
+	    android:persistent="true" 
+	    android:title="Data bits"
+	    android:defaultValue="@string/data_bits_def">
+	</ListPreference>
+	
+	<ListPreference 
+	    android:entries="@array/Flow_names" 
+	    android:entryValues="@array/Flow_value" 
+	    android:key="FLOW" 
+	    android:persistent="true" 
+	    android:title="Flow control"
+	    android:defaultValue="@string/flow_control_def">
+	</ListPreference>
+</PreferenceScreen>

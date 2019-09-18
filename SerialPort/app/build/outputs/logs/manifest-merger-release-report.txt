@@ -1,0 +1,65 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android\Workspace\test\PsamCardTest1\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\Android\Workspace\test\PsamCardTest1\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\Android\Workspace\test\PsamCardTest1\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\Android\Workspace\test\PsamCardTest1\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\Android\Workspace\test\PsamCardTest1\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\Android\Workspace\test\PsamCardTest1\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\Android\Workspace\test\PsamCardTest1\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from D:\Android\Workspace\test\PsamCardTest1\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from D:\Android\Workspace\test\PsamCardTest1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Workspace\test\PsamCardTest1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Android\Workspace\test\PsamCardTest1\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\Android\Workspace\test\PsamCardTest1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Workspace\test\PsamCardTest1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android\Workspace\test\PsamCardTest1\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\Android\Workspace\test\PsamCardTest1\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\Android\Workspace\test\PsamCardTest1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Workspace\test\PsamCardTest1\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\Android\Workspace\test\PsamCardTest1\app\src\main\AndroidManifest.xml:9:5-21:16
+	android:label
+		ADDED from D:\Android\Workspace\test\PsamCardTest1\app\src\main\AndroidManifest.xml:9:48-80
+	android:icon
+		ADDED from D:\Android\Workspace\test\PsamCardTest1\app\src\main\AndroidManifest.xml:9:18-47
+	android:name
+		ADDED from D:\Android\Workspace\test\PsamCardTest1\app\src\main\AndroidManifest.xml:10:3-29
+activity#com.example.pasmcardtest.MainActivity
+ADDED from D:\Android\Workspace\test\PsamCardTest1\app\src\main\AndroidManifest.xml:11:3-19:14
+	android:label
+		ADDED from D:\Android\Workspace\test\PsamCardTest1\app\src\main\AndroidManifest.xml:11:41-73
+	android:name
+		ADDED from D:\Android\Workspace\test\PsamCardTest1\app\src\main\AndroidManifest.xml:11:13-40
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Android\Workspace\test\PsamCardTest1\app\src\main\AndroidManifest.xml:12:4-18:20
+action#android.intent.action.MAIN
+ADDED from D:\Android\Workspace\test\PsamCardTest1\app\src\main\AndroidManifest.xml:13:5-57
+	android:name
+		ADDED from D:\Android\Workspace\test\PsamCardTest1\app\src\main\AndroidManifest.xml:13:13-54
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android\Workspace\test\PsamCardTest1\app\src\main\AndroidManifest.xml:15:5-65
+	android:name
+		ADDED from D:\Android\Workspace\test\PsamCardTest1\app\src\main\AndroidManifest.xml:15:15-62
+activity#com.example.pasmcardtest.SerialPortActivity
+ADDED from D:\Android\Workspace\test\PsamCardTest1\app\src\main\AndroidManifest.xml:20:3-83
+	android:name
+		ADDED from D:\Android\Workspace\test\PsamCardTest1\app\src\main\AndroidManifest.xml:20:13-71
+uses-sdk
+INJECTED from D:\Android\Workspace\test\PsamCardTest1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Android\Workspace\test\PsamCardTest1\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android\Workspace\test\PsamCardTest1\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android\Workspace\test\PsamCardTest1\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android\Workspace\test\PsamCardTest1\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Android\Workspace\test\PsamCardTest1\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android\Workspace\test\PsamCardTest1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Workspace\test\PsamCardTest1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Android\Workspace\test\PsamCardTest1\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android\Workspace\test\PsamCardTest1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Workspace\test\PsamCardTest1\app\src\main\AndroidManifest.xml

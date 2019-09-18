@@ -1,0 +1,287 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Android\\Workspace\\test\\PsamCardTest1\\app\\build\\intermediates\\res\\merged\\release\\values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\Android\\Workspace\\test\\PsamCardTest1\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "225",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "373"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Android\\Workspace\\test\\PsamCardTest1\\app\\build\\intermediates\\res\\merged\\release\\values-w820dp-v13_values-w820dp-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\Android\\Workspace\\test\\PsamCardTest1\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "310",
+                        "endColumns": "57",
+                        "endOffsets": "363"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Android\\Workspace\\test\\PsamCardTest1\\app\\build\\intermediates\\res\\merged\\release\\values-sw720dp-land-v13_values-sw720dp-land-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\Android\\Workspace\\test\\PsamCardTest1\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "205",
+                        "endColumns": "58",
+                        "endOffsets": "259"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Android\\Workspace\\test\\PsamCardTest1\\app\\build\\intermediates\\res\\merged\\release\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\Android\\Workspace\\test\\PsamCardTest1\\app\\src\\main\\res\\values\\baudrates.xml",
+                    "from": {
+                        "startLines": "3,35",
+                        "startColumns": "4,4",
+                        "startOffsets": "56,926",
+                        "endLines": "34,66",
+                        "endColumns": "19,19",
+                        "endOffsets": "921,1792"
+                    },
+                    "to": {
+                        "startLines": "42,74",
+                        "startColumns": "4,4",
+                        "startOffsets": "1103,1973",
+                        "endLines": "73,105",
+                        "endColumns": "19,19",
+                        "endOffsets": "1968,2839"
+                    }
+                },
+                {
+                    "source": "D:\\Android\\Workspace\\test\\PsamCardTest1\\app\\src\\main\\res\\values\\color.xml",
+                    "from": {
+                        "startLines": "3,4,2",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "98,139,57",
+                        "endColumns": "39,38,39",
+                        "endOffsets": "133,173,92"
+                    },
+                    "to": {
+                        "startLines": "114,115,116",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "3089,3129,3168",
+                        "endColumns": "39,38,39",
+                        "endOffsets": "3124,3163,3203"
+                    }
+                },
+                {
+                    "source": "D:\\Android\\Workspace\\test\\PsamCardTest1\\app\\src\\main\\res\\values\\devices.xml",
+                    "from": {
+                        "startLines": "3,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "56,173",
+                        "endLines": "6,10",
+                        "endColumns": "19,19",
+                        "endOffsets": "168,296"
+                    },
+                    "to": {
+                        "startLines": "106,110",
+                        "startColumns": "4,4",
+                        "startOffsets": "2844,2961",
+                        "endLines": "109,113",
+                        "endColumns": "19,19",
+                        "endOffsets": "2956,3084"
+                    }
+                },
+                {
+                    "source": "D:\\Android\\Workspace\\test\\PsamCardTest1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "92,151,208",
+                        "endColumns": "57,55,41",
+                        "endOffsets": "145,202,245"
+                    },
+                    "to": {
+                        "startLines": "117,118,119",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "3208,3266,3322",
+                        "endColumns": "57,55,41",
+                        "endOffsets": "3261,3317,3359"
+                    }
+                },
+                {
+                    "source": "D:\\Android\\Workspace\\test\\PsamCardTest1\\app\\src\\main\\res\\values\\parity.xml",
+                    "from": {
+                        "startLines": "3,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "56,192",
+                        "endLines": "7,12",
+                        "endColumns": "19,19",
+                        "endOffsets": "187,323"
+                    },
+                    "to": {
+                        "startLines": "24,29",
+                        "startColumns": "4,4",
+                        "startOffsets": "625,761",
+                        "endLines": "28,33",
+                        "endColumns": "19,19",
+                        "endOffsets": "756,892"
+                    }
+                },
+                {
+                    "source": "D:\\Android\\Workspace\\test\\PsamCardTest1\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,2,19,22,18,8,9,11,23,14,20,16,15,13,21",
+                        "startColumns": "1,1,1,1,1,1,1,1,1,1,1,1,1,1,1",
+                        "startOffsets": "96,52,944,1077,894,362,448,548,1118,751,989,853,796,646,1036",
+                        "endLines": "7,2,19,22,18,8,10,12,23,14,20,16,15,13,21",
+                        "endColumns": "10,43,44,40,49,85,16,18,46,44,46,38,56,104,40",
+                        "endOffsets": "360,94,987,1116,942,446,546,644,1163,794,1034,890,851,749,1075"
+                    },
+                    "to": {
+                        "startLines": "120,125,126,127,128,129,130,132,134,135,136,137,138,139,140",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "3364,3633,3680,3728,3772,3825,3914,4017,4118,4168,4216,4266,4308,4368,4476",
+                        "endLines": "124,125,126,127,128,129,131,133,134,135,136,137,138,139,140",
+                        "endColumns": "10,46,47,43,52,88,16,18,49,47,49,41,59,107,43",
+                        "endOffsets": "3628,3675,3723,3767,3820,3909,4012,4113,4163,4211,4261,4303,4363,4471,4515"
+                    }
+                },
+                {
+                    "source": "D:\\Android\\Workspace\\test\\PsamCardTest1\\app\\src\\main\\res\\values\\data_bits.xml",
+                    "from": {
+                        "startLines": "3,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "56,199",
+                        "endLines": "8,14",
+                        "endColumns": "19,19",
+                        "endOffsets": "194,337"
+                    },
+                    "to": {
+                        "startLines": "2,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,198",
+                        "endLines": "7,13",
+                        "endColumns": "19,19",
+                        "endOffsets": "193,336"
+                    }
+                },
+                {
+                    "source": "D:\\Android\\Workspace\\test\\PsamCardTest1\\app\\src\\main\\res\\values\\flow_control.xml",
+                    "from": {
+                        "startLines": "3,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "56,198",
+                        "endLines": "7,12",
+                        "endColumns": "19,19",
+                        "endOffsets": "193,335"
+                    },
+                    "to": {
+                        "startLines": "14,19",
+                        "startColumns": "4,4",
+                        "startOffsets": "341,483",
+                        "endLines": "18,23",
+                        "endColumns": "19,19",
+                        "endOffsets": "478,620"
+                    }
+                },
+                {
+                    "source": "D:\\Android\\Workspace\\test\\PsamCardTest1\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "141,148",
+                        "startColumns": "4,4",
+                        "startOffsets": "4520,4811",
+                        "endLines": "147,150",
+                        "endColumns": "12,12",
+                        "endOffsets": "4806,4966"
+                    }
+                },
+                {
+                    "source": "D:\\Android\\Workspace\\test\\PsamCardTest1\\app\\src\\main\\res\\values\\stop_bits.xml",
+                    "from": {
+                        "startLines": "3,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "56,159",
+                        "endLines": "6,10",
+                        "endColumns": "19,19",
+                        "endOffsets": "154,257"
+                    },
+                    "to": {
+                        "startLines": "34,38",
+                        "startColumns": "4,4",
+                        "startOffsets": "897,1000",
+                        "endLines": "37,41",
+                        "endColumns": "19,19",
+                        "endOffsets": "995,1098"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Android\\Workspace\\test\\PsamCardTest1\\app\\build\\intermediates\\res\\merged\\release\\values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\Android\\Workspace\\test\\PsamCardTest1\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "182",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "311"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "182"
+                    }
+                }
+            ]
+        }
+    ]
+}

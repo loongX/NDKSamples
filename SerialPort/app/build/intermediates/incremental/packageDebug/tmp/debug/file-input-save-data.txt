@@ -1,0 +1,19 @@
+#Internal package file, do not edit.
+#Wed Sep 18 09:04:34 CST 2019
+1.base=D\:\\Android\\Workspace\\test\\PsamCardTest1\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0
+2.path=libgpio.so
+0.baseType=DIRECTORY
+3.baseType=DIRECTORY
+2.base=D\:\\Android\\Workspace\\test\\PsamCardTest1\\app\\build\\intermediates\\merged_assets\\debug\\out
+3.set=DEX
+2.set=ASSET
+1.baseType=DIRECTORY
+3.path=classes.dex
+count=4
+1.set=NATIVE_RESOURCE
+0.path=lib/armeabi/libgpio.so
+3.base=D\:\\Android\\Workspace\\test\\PsamCardTest1\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.set=NATIVE_RESOURCE
+0.base=D\:\\Android\\Workspace\\test\\PsamCardTest1\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0
+2.baseType=DIRECTORY
+1.path=lib/armeabi/libserial_port.so

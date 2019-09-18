@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Jul 18 10:08:04 CST 2019
+0.baseType=DIRECTORY
+0.base=D\:\\Android\\Workspace\\test\\PsamCardTest1\\app\\build\\intermediates\\merged_assets\\debug\\out
+0.path=libgpio.so
+0.set=ASSET
+count=1

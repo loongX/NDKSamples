@@ -1,0 +1,4 @@
+#Thu Jul 18 17:33:06 CST 2019
+base.0=D\:\\Android\\Workspace\\test\\PsamCardTest1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex

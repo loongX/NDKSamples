@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="Flow_names">
+        <item>None</item>
+        <item>RTS/CTS</item>
+        <item>XON/XOFF</item>
+    </string-array>
+    <string-array name="Flow_value">
+        <item>None</item>
+        <item>RTS/CTS</item>
+        <item>XON/XOFF</item>
+    </string-array>
+
+</resources>

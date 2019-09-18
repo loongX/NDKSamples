@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Data_names">
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+		<item>8</item>
+    </string-array>
+    <string-array name="Data_value">
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+		<item>8</item>
+    </string-array>
+    <string-array name="Flow_names">
+        <item>None</item>
+        <item>RTS/CTS</item>
+        <item>XON/XOFF</item>
+    </string-array>
+    <string-array name="Flow_value">
+        <item>None</item>
+        <item>RTS/CTS</item>
+        <item>XON/XOFF</item>
+    </string-array>
+    <string-array name="Parity_names">
+        <item>None</item>
+        <item>Odd</item>
+        <item>Even</item>
+    </string-array>
+    <string-array name="Parity_value">
+        <item>None</item>
+        <item>Odd</item>
+        <item>Even</item>
+    </string-array>
+    <string-array name="Stop_names">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="Stop_value">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="baudrates_name">
+        <item>50</item>
+        <item>75</item>
+        <item>110</item>
+        <item>134</item>
+        <item>150</item>
+        <item>200</item>
+        <item>300</item>
+        <item>600</item>
+        <item>1200</item>
+        <item>1800</item>
+        <item>2400</item>
+        <item>4800</item>
+        <item>9600</item>
+        <item>19200</item>
+        <item>38400</item>
+        <item>57600</item>
+        <item>115200</item>
+        <item>230400</item>
+        <item>460800</item>
+        <item>500000</item>
+        <item>576000</item>
+        <item>921600</item>
+        <item>1000000</item>
+        <item>1152000</item>
+        <item>1500000</item>
+        <item>2000000</item>
+        <item>2500000</item>
+        <item>3000000</item>
+        <item>3500000</item>
+        <item>4000000</item>
+    </string-array>
+    <string-array name="baudrates_value">
+        <item>50</item>
+        <item>75</item>
+        <item>110</item>
+        <item>134</item>
+        <item>150</item>
+        <item>200</item>
+        <item>300</item>
+        <item>600</item>
+        <item>1200</item>
+        <item>1800</item>
+        <item>2400</item>
+        <item>4800</item>
+        <item>9600</item>
+        <item>19200</item>
+        <item>38400</item>
+        <item>57600</item>
+        <item>115200</item>
+        <item>230400</item>
+        <item>460800</item>
+        <item>500000</item>
+        <item>576000</item>
+        <item>921600</item>
+        <item>1000000</item>
+        <item>1152000</item>
+        <item>1500000</item>
+        <item>2000000</item>
+        <item>2500000</item>
+        <item>3000000</item>
+        <item>3500000</item>
+        <item>4000000</item>
+    </string-array>
+    <string-array name="devices_name">
+        <item>ttyHSL0</item>
+        <item>ttyHSL1</item>
+    </string-array>
+    <string-array name="devices_value">
+        <item>/dev/ttyHSL0</item>
+        <item>/dev/ttyHSL1</item>
+    </string-array>
+    <color name="black">#130c0e</color>
+    <color name="gray">#808080</color>
+    <color name="white">#FFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="ite_height">40dp</dimen>
+    <string name="about_msg">This program is the sample application provided
+		with project android-serialport-api. The project is free and open
+		source.\n\nMore information and bug report
+		on:\nhttp://code.google.com/p/android-serialport-api/\n\n- Cédric
+	</string>
+    <string name="app_name">Psam Card</string>
+    <string name="baud_rate_def">38400</string>
+    <string name="data_bits_def">8</string>
+    <string name="devices_def">/dev/ttyHSL0</string>
+    <string name="error_configuration">Please configure your serial port first.</string>
+    <string name="error_security">You do not have read/write permission to the serial
+		port.</string>
+    <string name="error_unknown">The serial port can not be opened for an unknown
+		reason.</string>
+    <string name="flow_control_def">None</string>
+    <string name="get_apn">AT+CGDCONT?</string>
+    <string name="parity_check_def">None</string>
+    <string name="serial">serial</string>
+    <string name="serial_port">Setting Serial Port</string>
+    <string name="set_apn">AT+CGDCONT=1, \"IPV4V6\", \"internet.lguplus.co.kr\", \"0.0.0.0\", 0, 0</string>
+    <string name="stop_bits_def">1</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

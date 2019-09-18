@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\Android\\Workspace\\test\\PsamCardTest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\Workspace\\test\\PsamCardTest1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\Workspace\\test\\PsamCardTest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sysbar_quicksettings.png.flat",
+        "source": "D:\\Android\\Workspace\\test\\PsamCardTest1\\app\\src\\main\\res\\drawable\\ic_sysbar_quicksettings.png"
+    },
+    {
+        "merged": "D:\\Android\\Workspace\\test\\PsamCardTest1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Android\\Workspace\\test\\PsamCardTest1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\Workspace\\test\\PsamCardTest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edit_bg.xml.flat",
+        "source": "D:\\Android\\Workspace\\test\\PsamCardTest1\\app\\src\\main\\res\\drawable\\edit_bg.xml"
+    },
+    {
+        "merged": "D:\\Android\\Workspace\\test\\PsamCardTest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_settings_black_24dp.png.flat",
+        "source": "D:\\Android\\Workspace\\test\\PsamCardTest1\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_settings_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Android\\Workspace\\test\\PsamCardTest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "D:\\Android\\Workspace\\test\\PsamCardTest1\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\Android\\Workspace\\test\\PsamCardTest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\Workspace\\test\\PsamCardTest1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\Workspace\\test\\PsamCardTest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\Workspace\\test\\PsamCardTest1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\Workspace\\test\\PsamCardTest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v21_ic_settings_black_24dp.xml.flat",
+        "source": "D:\\Android\\Workspace\\test\\PsamCardTest1\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi-v21\\ic_settings_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Android\\Workspace\\test\\PsamCardTest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\Workspace\\test\\PsamCardTest1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\Workspace\\test\\PsamCardTest1\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\Android\\Workspace\\test\\PsamCardTest1\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Android\\Workspace\\test\\PsamCardTest1\\app\\build\\intermediates\\res\\merged\\debug\\xml_serial_port_preferences.xml.flat",
+        "source": "D:\\Android\\Workspace\\test\\PsamCardTest1\\app\\src\\main\\res\\xml\\serial_port_preferences.xml"
+    }
+]
